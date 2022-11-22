@@ -1,0 +1,19 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "default": "variant26"
+      
+    },
+    {
+      "id": 1,
+      "name": "wild",
+      "type": "cat"
+    },
+    {
+      "id": 1,
+      "name": "wild",
+      "type": "pussy"
+    }
+  ]
+}
